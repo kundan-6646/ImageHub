@@ -30,9 +30,9 @@ let NavBar = ({setImages, setKeyword}) => {
 
     return (
         <nav className="navbar bg-body-tertiary p-3">
-            <div className="container-fluid">
-                <a className="navbar-brand" href="/">Image<span className="brand-color">Hub</span></a>
-                <div className="d-flex flex-grow-1 search-bar-container">
+            <div className="container-fluid p-0">
+                <a className="navbar-brand" href="https://kundan-6646.github.io/imagehub">Image<span className="brand-color">Hub</span></a>
+                <div className="d-flex search-bar-container">
                     <FaSearch />
                     <input className="search-bar flex-grow-1 p-2" type="search"  
                     placeholder="Search for Images" aria-label="Image Bazaar Search"

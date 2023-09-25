@@ -18,16 +18,16 @@ let Footer = () => {
                 <div className="company-navigation col-lg-6 col-sm-12">
                     <div className="company-info-item">
                         <div className='info-heading'>Company Info</div>
-                        <a href='/'>Home</a>
-                        <a href='/'>About Us</a>
-                        <a href='/'>Testimonials</a>
-                        <a href='/'>Image Research</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>Home</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>About Us</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>Testimonials</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>Image Research</a>
                     </div>
                     <div className="company-info-item">
                         <div className='info-heading'>Need Help?</div>
-                        <a href='/'>Contact Us</a>
-                        <a href='/'>Search Tips</a>
-                        <a href='/'>FAQ</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>Contact Us</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>Search Tips</a>
+                        <a href='https://kundan-6646.github.io/imagehub'>FAQ</a>
                         <a href='https://kundan-6646.github.io/Portfolio/'>Developer</a>
                     </div>
                 </div>

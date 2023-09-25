@@ -4,11 +4,12 @@
 
 ## Features
 
-* Keyword-Based Image Search.
-* API Integration.
-* Responsive User Interface.
-* Dynamic Image Rendering.
-* User-Friendly Experience.
+* Keyword-Based Image Search
+* API Integration
+* Responsive User Interface
+* Dynamic Image Rendering
+* Download Options
+* User-Friendly Experience
 * Endless Exploration
 
 ## Teck-Stack Used :
@@ -34,7 +35,7 @@ To run project on your local enviorment:
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-## Ask a question or give me a shout out:
+## Ask A Question or Give Me A Shout Out:
 
 - 💌 https://kundan-6646.github.io/Portfolio/
 - 🐣 https://www.linkedin.com/in/kundan-kmr/
