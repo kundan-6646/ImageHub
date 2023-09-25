@@ -33,7 +33,7 @@ let Footer = () => {
                 </div>
 
                 <div className='mt-4 text-center brand-color'>
-                    © {new Date().getFullYear()} <span color={{color: '#fff'}}>Image</span>Hub. All rights reserved.
+                    © {new Date().getFullYear()} <span style={{color: '#fff'}}>Image</span>Hub. All rights reserved.
                 </div>
             </div>
         </footer>
